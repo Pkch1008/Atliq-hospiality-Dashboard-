@@ -40,6 +40,15 @@ The AtliQ Hospitality Analysis Dashboard yielded several key insights:
 
 These insights can be leveraged by AtliQ Hospitality to optimize operations, enhance customer satisfaction, and increase overall profitability.
 
-## Preview
+###  Preview
+![11](https://github.com/user-attachments/assets/0d242c6b-bccb-4a77-b13d-9be4d9092a2e)
+
+
+###  Monthly Wise Preview 
+![1](https://github.com/user-attachments/assets/88d6b950-748d-421c-955b-5aa414a7be90)
+
+###  info 
+![3](https://github.com/user-attachments/assets/1e91eef3-c535-4736-a9e7-681b00f1e078)
+
 
 
