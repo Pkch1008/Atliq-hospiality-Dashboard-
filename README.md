@@ -3,7 +3,8 @@
 This repository contains the AtliQ Hospitality Analysis Dashboard, created as part of the Codebasics Resume Project Challenge. The dashboard provides insights into the performance of AtliQ hotels across various cities, focusing on key metrics such as revenue, occupancy rates, booking trends, and customer ratings.
 
 
-### Live Dashboard :  https://app.powerbi.com/view?r=eyJrIjoiY2VhNzc2Y2EtNzc3Ny00YmFkLWIwZmEtYzFmNjEyOGQzNzQ1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
+### Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNGRlNGM2MTMtNjI2OC00NWYzLWI3YTUtYWM5MjUxMjY5MzU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Project Overview
 
 The AtliQ Hospitality Analysis Dashboard is designed to help stakeholders understand the business performance of AtliQ hotels over a three-month period. The analysis includes:
